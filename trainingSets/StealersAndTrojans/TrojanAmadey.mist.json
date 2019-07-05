@@ -1,0 +1,20 @@
+{
+  "api_resolv": "5ccec8b3 ec2b83df 02eb14e7 c75fd1c7", 
+  "cmd_exec": "2591c98b dd82c188 09e592c4 0a245039 8d6095a6 e7bdb89c bca50149 0f4137ed a7ecd823 33c0ee42 2b1bda43 7cb31435 34ec78fc 98e83379 f9fa10ba 5c482c2d e99ad613 0c606f99 5f532a3f 1250689a ee11cbb1 efc50fc9", 
+  "file_access": "06416233 97620389 d41d8cd9 0a245039 8d6095a6 6a04c6fb cfcd2084 d65aadb2 c0f87020 080a35bc e322d423 277993ca ddf3a8a8 ce616491 5c482c2d b93ed925 8b4939bc d85eb9a8 f9fa10ba f9f16d97 c793999d f9664ea1 8ff8249d 98e83379 f393f3f5 e91e6348 48ea3508 5eeb937a 3d801aa5 b8a7902b 1250689a 2567a5ec 1b7d9167", 
+  "file_drop": "00000000_a2e4822a", 
+  "file_read": "c0f87020 06416233 8b4939bc 080a35bc 3d801aa5 b8a7902b 6a04c6fb 98e83379 d65aadb2", 
+  "file_write": "5c482c2d 97620389 0a245039 8d6095a6 1250689a cfcd2084 98e83379 f393f3f5", 
+  "net_con": "98969e78 e165d4f2 471d3714", 
+  "reg_access": "40d70447 1fe39017 dd82c188 7e523f39 7cb31435 c576a841 c1c40440 0aaa8742 c0f87020 54b53072 2591c98b df16f4d5 94422fa6 9ea6efd4 efc50fc9", 
+  "reg_read": "40d70447 7cb31435 1fe39017 dd82c188 7e523f39 df16f4d5 0aaa8742 9ea6efd4 c1c40440", 
+  "reg_write": "7cb31435 dd82c188", 
+  "sig_antiav_detectfile": "b93ed925 d85eb9a8 2567a5ec 0a245039 8d6095a6 f9f16d97 f9664ea1 8ff8249d e91e6348 5eeb937a e322d423 277993ca ce616491 f9fa10ba", 
+  "sig_antisandbox_sleep": "74e50700", 
+  "sig_dead_connect": "684752bb", 
+  "sig_dropper_binary": "1250689a 97620389 f393f3f5", 
+  "sig_reads_self": "f0817f78", 
+  "sig_static_pe_anomaly": "a9f2c818", 
+  "sig_uses_windows_utilities": "71194ae2", 
+  "sig_yara_detection": "2c6a8791 389a79b3"
+}

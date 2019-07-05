@@ -1,0 +1,11 @@
+{
+  "api_resolv": "cfb97f55", 
+  "file_access": "98e83379 3d801aa5 3f74935c", 
+  "file_delete": "98e83379 3d801aa5 3f74935c", 
+  "mutex_access": "58a19c52", 
+  "reg_access": "db8764fe 1fe39017 e0bda819 2af72f10 efc50fc9 df16f4d5 6f8d1b93 6301488c", 
+  "reg_read": "df16f4d5 1fe39017", 
+  "reg_write": "db8764fe 2af72f10 6f8d1b93 6301488c", 
+  "sig_move_file_on_reboot": "c7a14b7a", 
+  "sig_static_detection": "fe9be8fc 1f5d4926"
+}

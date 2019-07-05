@@ -1,0 +1,8 @@
+{
+  "net_con": "a8d923f4 0ae0ba3c 3d99da06 3e4e904d 05866880 152649df f5c486f8 f6d4f920 4e58b323 dd6fc64f cbfeedcb 9da599ee 92595e86 4c8b4573 7001c54a 66bf124f 5369a911 049d6504 b251fa81 2a0e0308 736a9ad3 857431fd 54cbf16a 5f8c924a 76684cc8 99f210de", 
+  "net_dns": "fac04ca6 ce1d5a24 4eae35f1 40fa73c9 6cdcbae0 117283fc 4d236d9a 30a6da8c c31b3236 ec8bf516 d0643190 95ce386f d20bcadd 75688b02 c822c1b6", 
+  "net_http": "1d3cca01 0c9a2341", 
+  "sig_network_cnc_http": "91b05b03 bb03f7af", 
+  "sig_network_dropping_file": "1e52bfac", 
+  "sig_network_http": "928c177a 91b05b03"
+}

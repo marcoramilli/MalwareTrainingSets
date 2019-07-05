@@ -1,0 +1,8 @@
+{
+  "net_con": "a8d923f4 4c8b4573 2d06e6db 45677efa 2a0e0308 3d99da06 752c931d 66bf124f 94d570df 152649df c6ee6ff1 d69b59e1 8fa2a18d 7a9dbd21 0ccf7ae3 30d7904c 0ae0ba3c", 
+  "net_dns": "fac04ca6 d0643190 95ce386f 4eae35f1 117283fc c31b3236 c822c1b6 4d236d9a", 
+  "net_http": "0c9a2341", 
+  "sig_network_cnc_http": "91b05b03 bb03f7af", 
+  "sig_network_dropping_file": "1e52bfac", 
+  "sig_network_http": "91b05b03"
+}

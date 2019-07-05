@@ -1,0 +1,14 @@
+{
+  "api_resolv": "87b97cb4 4f9c1f18 b5d56eb9 5ccec8b3 71d4a352 d847e1f5 ac456125 4b03b39a 2f1253f7 e9654318 e047dd48 a906dfcd", 
+  "file_access": "363b122c d41d8cd9 ada082f6 96da6d37 50cd6428 ea03fcb8 f5ddaf0c 8d6095a6 94c83ece fa816edb 06416233 54b53072 98e83379 77610c75 9bc65c2a 3d801aa5 913f9c49 57c36376 727d0523 40770804", 
+  "file_delete": "ada082f6 3d801aa5 50cd6428 fa816edb", 
+  "file_drop": "00002c00_4771c395", 
+  "file_read": "d41d8cd9 ada082f6 96da6d37 77610c75 50cd6428 06416233 fa816edb 727d0523 98e83379 54b53072 3d801aa5 913f9c49", 
+  "file_write": "06416233 54b53072 3d801aa5 77610c75 fa816edb", 
+  "reg_access": "8d777f38 d41d8cd9 fa4b5fd1 210ab9e7 b28b9dda ae24ac26 0f4137ed 54c87558 9cb9ce5b efc50fc9", 
+  "reg_read": "b28b9dda 8d777f38 54c87558 9cb9ce5b fa4b5fd1 efc50fc9", 
+  "sig_dropper_binary": "06416233 54b53072 fa816edb", 
+  "sig_dynamic_function_loading": "3e5aeda9 1addc9a5 6ad734af 7ad75ccd f4aa2c74 e87837d5 c513718e 3ba91b71 49357a73 3ca2c4b3 f1eedc73 acda772f bbe7e28c", 
+  "sig_manalyzepacker": "90250159", 
+  "sig_reads_self": "cbec8487 afc00aa5"
+}

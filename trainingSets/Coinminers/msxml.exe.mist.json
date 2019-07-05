@@ -1,0 +1,12 @@
+{
+  "api_resolv": "55eafac6 eee8e8ce 84f64bbc 5ced1088 f8e166f0 4d880bfe 17518015 9a9699c7 3682648c aeb803af f59abc9d d0f4bc50 fdeed961 dec3713e 4484d3f9 fe2b396c 9870677a a9d58661 ed23cd27 b31a2f2e ec2fbb0e e5ceff7e 52464cfa 3c3b21e8 3ce99501 d2b134d2 46937ec4 83875788 303bee61 508fb489 aa9ee92a 1aeb848e c7fb6b0e fb8163f2 4dfdf7fc 5d68b4bf f353449a 071f68fc 551c6b57 9fbab5e5 20654bac", 
+  "file_access": "202cb962 06416233 c81e728d 98e83379 8895c8aa 77c5cffc c8ffe9a5 e5254f16 7515e617 8e0af37d 7f5cb74a", 
+  "file_read": "202cb962 06416233 77c5cffc c8ffe9a5 e5254f16 8895c8aa c81e728d 98e83379 7f5cb74a", 
+  "reg_access": "35e4625d 06238034 efc50fc9", 
+  "reg_read": "35e4625d 06238034", 
+  "sig_dynamic_function_loading": "5b261d1d 6d18c9d6 ce8422d7 00061a18 d1077b38 322614cb ced5d048 4cdb9ba8 9d26d548 f26e55ff 83dcd381 5d6ed322 81a559ca 34954ee5 852cdfd9 1f1ddd9e 1b5ba912 508b1118 eb98b019 75d8a08a 09f5bc32 23fbc833 195b2ac2 21dad5c2 5e4deedf 87fa6af9 a0b3ebab 6733e33a 29fcb4ce ed22e590 503a1239 ff2c2dbe 4c2d2bae 23f92ce7 58613d8e 1afc168a 1bf1e575 86bda7c9 f8d3403a 18a595be 4a6cf968 1f38e903 22304c3a 3188e4c1 ab9f790f 5440fa64 68ab9f85", 
+  "sig_manalyzefindcrypt": "3ffbba39 ba419300", 
+  "sig_manalyzepacker": "c8c9717d a701a906 657d9b37", 
+  "sig_packer_entropy": "59b8f97b", 
+  "sig_static_detection": "3e6407d8 8b0f751d 266910c6 550db824 c5f98062 6e4a0cee"
+}

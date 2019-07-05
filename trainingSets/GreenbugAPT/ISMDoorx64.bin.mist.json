@@ -1,0 +1,12 @@
+{
+  "api_resolv": "5f542ad5 55eafac6 dec3713e 7c291dac 8e867588 956f51d4 71d4a352 ca9a6dcb 9811be22 1bdf1d7e 508fb489 4569fb45 a906dfcd 3df65ad1 2594ca74 d2b134d2 8944da61 85694443 e4258ee4 af9f75b2 aa9ee92a 2a52361d 5ba939d0 fb8163f2 d62af1fd 1e27b6de 9fbab5e5 86e489f7 b60440c9 7dbefa9c 84f64bbc 5ced1088 07e0cc95 3682648c be9112da 0548e4bf 9870677a 551c6b57 ed23cd27 c7fb6b0e b31a2f2e e5ceff7e 98f292ef f353449a 57182427 46937ec4 83875788 0081ea80 c6370bef 7d6cbe7f 12d1132a ba2af617 7b4f0c4b 3ff194cd 5d68b4bf 7c47c747 a9d58661 20654bac", 
+  "file_access": "d41d8cd9 96da6d37 cd36ae20 913f9c49 4553050a 5dd105df 0f4137ed 3389dae3 5f532a3f baa013bb 81fc4ef2 64e1e1cb", 
+  "file_drop": "00000000_069f17dc", 
+  "file_read": "913f9c49 96da6d37 cd36ae20 0f4137ed 81fc4ef2 baa013bb 5f532a3f d41d8cd9", 
+  "file_write": "5dd105df 0f4137ed 81fc4ef2 5f532a3f 4553050a 64e1e1cb", 
+  "net_dns": "9e3669d1 cfcd2084 4d236d9a 7b8b965a 9c51d400 6b19450b d077c0af b4688aaa", 
+  "sig_apparent_code_into_decoded_strings": "45e0edac 44dc88f0", 
+  "sig_dynamic_function_loading": "c513718e ca31eeaa 8a00faf9 03212e31 07acf559 5ce41195 74f441e8 c274de02", 
+  "sig_manalyzefindcrypt": "b023a1cd", 
+  "sig_static_detection": "ec4aaecf 3e6407d8 c5f98062 bd5799ad f7ebe572 8d1e15a4 fe9be8fc 601c55e6 9ddf29e2 6e4a0cee"
+}

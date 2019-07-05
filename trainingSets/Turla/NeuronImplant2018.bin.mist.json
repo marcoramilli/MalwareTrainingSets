@@ -1,0 +1,9 @@
+{
+  "file_access": "202cb962 06416233 7b946538 8895c8aa 3d801aa5 c8ffe9a5 c460d7ac c81e728d 98e83379 7f5cb74a", 
+  "file_read": "202cb962 06416233 7b946538 8895c8aa 3d801aa5 c8ffe9a5 c460d7ac c81e728d 98e83379 7f5cb74a", 
+  "reg_access": "35e4625d 06238034 efc50fc9", 
+  "reg_read": "35e4625d 06238034", 
+  "sig_apparent_code_into_decoded_strings": "0667a479 faaef96b bc101b7e ea1bc52d cce4ab4c 2bccd73d 45e0edac c1c42526 edd6e5e6 98775c8b c51ac7d4 8bf128cf d685fd3d 938fb8a0 e808f72f 9e155cf5 d9e7754d f61d871d dd98f61b a9dfba6f 733a373b 81af7013 2d449abe b7f00018 8a80d7b7 2946bd7e", 
+  "sig_manalyzefindcrypt": "b023a1cd", 
+  "sig_manalyzepacker": "ce8b9f50"
+}

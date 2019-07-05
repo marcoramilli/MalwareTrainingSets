@@ -1,0 +1,10 @@
+{
+  "api_resolv": "aa9ee92a 9fbab5e5 9870677a 20654bac", 
+  "file_access": "06416233 c67a9b51 e5254f16 7515e617 fca16885 8e0af37d", 
+  "reg_access": "df16f4d5 1fe39017 efc50fc9", 
+  "reg_read": "df16f4d5 1fe39017", 
+  "sig_dynamic_function_loading": "6d18c9d6 86bda7c9 00061a18 508b1118 1afc168a", 
+  "sig_manalyzefindcrypt": "3ffbba39 e8e25d14", 
+  "sig_packer_entropy": "915d7778", 
+  "sig_static_detection": "3e6407d8 e8743fbd c5f98062 c6cf7760 44f66b1b 6e4a0cee"
+}

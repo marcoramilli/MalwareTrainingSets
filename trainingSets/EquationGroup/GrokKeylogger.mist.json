@@ -1,0 +1,7 @@
+{
+  "net_dns": "4bd26db0 f5ddaf0c ff62020e 57c36376 e4e46deb fcd2bc07 feb5332a", 
+  "net_mitm": "27cc3b0b", 
+  "sig_manalyzepacker": "1dc79d4b 14c38bb9 41bd56db", 
+  "sig_packer_entropy": "5f76807c", 
+  "sig_static_pe_anomaly": "9929e01a"
+}

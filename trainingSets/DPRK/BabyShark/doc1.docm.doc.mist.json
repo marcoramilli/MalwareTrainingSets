@@ -1,0 +1,10 @@
+{
+  "net_http": "05882f9c", 
+  "net_mitm": "dc26be59", 
+  "sig_network_dropping_file": "7f491992", 
+  "sig_network_http": "4d70eca9", 
+  "sig_office_macro_autoexecution": "cfc3741c", 
+  "sig_office_macro_ioc": "50ad240e", 
+  "sig_office_macro_or_obj_decoding": "2c7ef852", 
+  "sig_office_macro_suspicious": "530773d1 617dab43 d4e22f25 817a717e"
+}

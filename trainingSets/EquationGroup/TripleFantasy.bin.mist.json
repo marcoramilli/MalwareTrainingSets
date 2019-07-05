@@ -1,0 +1,11 @@
+{
+  "api_resolv": "9ed03fea d00439e9 9d0de330 c15bf65e bd5858b1 af5ba1dc 58cf707f 393738c5 348230d2 1e29f048 41aaefa2 6605c560 ae8d7f54 9814ce58", 
+  "file_access": "202cb962 06416233 7b946538 8895c8aa 3d801aa5 162e9d36 c8ffe9a5 c81e728d 98e83379 7f5cb74a", 
+  "file_read": "202cb962 06416233 7b946538 8895c8aa 3d801aa5 162e9d36 c8ffe9a5 c81e728d 98e83379 7f5cb74a", 
+  "reg_access": "35e4625d 06238034 efc50fc9", 
+  "reg_read": "35e4625d 06238034", 
+  "sig_dynamic_function_loading": "1e0d6e70 b2154130 a6596ea4 04106767", 
+  "sig_manalyzefindcrypt": "ba419300", 
+  "sig_static_detection": "3e6407d8 8a15faa2", 
+  "sig_yara_detection": "d7bdf792 06772832 a8095fb1 2c6a8791 571dce0c 389a79b3"
+}

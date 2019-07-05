@@ -1,0 +1,12 @@
+{
+  "api_resolv": "730337fd 8c70d8b3 4997b27d 6edb9f63 b0173f3d 94109095 a5a602e0 b648d42e 239ab182 b0869ce3 38bf0d3e 57f72ed1 3b16611b 50166783 1a23af4e 7ef76a00 972b1854 58c9546a ba46a8c3 e6f20930 f60a30d8 2b4779bb 44c96a19 ff83fd67 18310962 ac533af1 5a07cdb0 17c5bda2 d05fa5b7 6008cbc2 d2f83727 d998672a 98b7e552 f600bd35 bf7ec380 a9eb756b 6e19c8bf 506b83f4 d9708786 2e0690b0 a4e02137 d38777ee f1975a94 b467b871 2f9b3a03 22921452 da4fab1c", 
+  "file_access": "202cb962 06416233 c8ffe9a5 6b1fa2d7 98e83379 7f5cb74a", 
+  "file_read": "202cb962 06416233 c8ffe9a5 6b1fa2d7 98e83379 7f5cb74a", 
+  "mutex_access": "504e9037", 
+  "reg_access": "35e4625d 06238034 efc50fc9", 
+  "reg_read": "35e4625d 06238034", 
+  "sig_dynamic_function_loading": "29ecbdb7 2ba577cd 7bdb6edd 508b8f57 4aaba119 e9f78f4d 5146fe82 ce56bbbd 178089ff 4a5f78e0 e2cd658c 0c61f08b 1aed2a01 7aadd0d1 61a708fd 0c2fd168 3cdaabfe 09517253 1770ded3 eed0d685 befad338 fe3fca5b 8f99df15 23bb5ed4 336c0428 056720ae 6b016ec6 962a00c9 8a027f6c 001cff22 0e3fad59 d337c668 b5f06080 6e9e16f7 c38fa942 798c93e9 2d9e5bfa 2d7c3172 2b3ac5c8 3ec06eae e6edbcc8 7d46aaaa 25c941f0 6cc9d013 8f8be01c 911f22dc 5b1514b2 a4cfcf37 1eae04df 2136e904", 
+  "sig_infostealer_keylog": "8ba89d68", 
+  "sig_static_detection": "004f3f5b 3e6407d8 0bd6f49b 6e4a0cee", 
+  "sig_yara_detection": "2e5dfe74 2c6a8791 a8095fb1 d7bdf792 389a79b3"
+}

@@ -1,0 +1,18 @@
+{
+  "api_resolv": "87b97cb4 54895f85 4ebc826c 02eb14e7 b5d56eb9 a3391897 e9d5eec4 d847e1f5 0992dc0a dbc50f74 ec2b83df 0decee80 3019cdab f995e747 a906dfcd 8ce2f74b 4569fb45", 
+  "cmd_exec": "dfff0a7f 68c307ba 16f8455f", 
+  "file_access": "dfff0a7f 9bc65c2a 07088553 363b122c ea03fcb8 d1d66066 8d6095a6 94c83ece 022d12a4 ccddb19d c0f87020 f5ddaf0c 080a35bc 3389dae3 16f8455f 57c36376 d41d8cd9 8b4939bc 96da6d37 c6f057b8 40770804 6992c2db 973fc1b9 98e83379 3d801aa5 913f9c49 6fe3d823 fc192b0c", 
+  "file_delete": "dfff0a7f d1d66066 07088553 c6f057b8 973fc1b9 022d12a4 98e83379 ccddb19d 16f8455f fc192b0c 3d801aa5", 
+  "file_drop": "000e6000_8d777f38 00001000_7056185d 00000000_0a1c2d4f 00000000_5fd38e7c 00002000_0a1c2d4f 00009800_5d9a0be8", 
+  "file_read": "dfff0a7f d41d8cd9 8b4939bc 96da6d37 c6f057b8 6992c2db 98e83379 c0f87020 080a35bc 3d801aa5 16f8455f 913f9c49", 
+  "file_write": "dfff0a7f d1d66066 022d12a4 c6f057b8 973fc1b9 07088553 98e83379 ccddb19d 16f8455f fc192b0c", 
+  "reg_access": "8d777f38 c0f87020 8512ae7d 0aaa8742 c576a841 1c9c33fb 210ab9e7 dd7bbc62 fa4b5fd1 b28b9dda 54b53072 1471e4e0 a13a40f5 0f4137ed df16f4d5 b41aa1d1 649ce065 cc378c05 40d70447 d41d8cd9 1fe39017 c1c40440 7e523f39 fb216d9e 1d6cfcb9 ef3e30e0 55531a7e 10f71998 cbb84746 ae24ac26 9ea6efd4 c4ca4238 36be5f2c cd24d05d 9cb9ce5b 1dccadfe efc50fc9", 
+  "reg_read": "0aaa8742 fa4b5fd1 dd7bbc62 8d777f38 1471e4e0 df16f4d5 b41aa1d1 649ce065 cc378c05 40d70447 b28b9dda 1fe39017 c1c40440 7e523f39 fb216d9e cbb84746 55531a7e 1d6cfcb9 cd24d05d 9ea6efd4 c4ca4238 36be5f2c 9cb9ce5b", 
+  "sig_dropper_binary": "07088553 c6f057b8 fc192b0c 98e83379", 
+  "sig_dynamic_function_loading": "743f649f 8115a11e 864672b5 a6324bac 7ad75ccd ffe79a46 c513718e 9c5bfda3 fdc4cbee 7e3c0d68 2eca460d 07acf559 49357a73 bbe7e28c 6ea11699 79cc7ccb", 
+  "sig_reads_self": "832644be 1c955eda 2d1457c2", 
+  "sig_static_detection": "fe9be8fc 4a9d4295", 
+  "sig_static_pe_anomaly": "a9f2c818", 
+  "sig_stealth_window": "6824217b", 
+  "sig_uses_windows_utilities": "d1fdc332"
+}

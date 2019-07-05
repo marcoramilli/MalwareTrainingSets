@@ -1,0 +1,14 @@
+{
+  "file_access": "202cb962 06416233 7b946538 d1db91e1 ca68c12e bda9f42e 711e1619 c81e728d 98e83379 8895c8aa 3d801aa5 7f5cb74a c8ffe9a5", 
+  "file_read": "202cb962 06416233 7b946538 d1db91e1 ca68c12e bda9f42e 711e1619 c81e728d 98e83379 8895c8aa 3d801aa5 7f5cb74a c8ffe9a5", 
+  "net_con": "719d5138 7612e840 21441313", 
+  "net_dns": "b17643ea 8b177187 4d236d9a", 
+  "net_http": "188a741f", 
+  "reg_access": "35e4625d 93da65a9 06238034 731fa9a9 700cc4bd b8190434 efc50fc9", 
+  "reg_read": "35e4625d 700cc4bd 06238034 731fa9a9 b8190434", 
+  "sig_apparent_code_into_decoded_strings": "8e9731d4 45e0edac 5d53b4bb f49425c2 69b357af", 
+  "sig_manalyzefindcrypt": "e8e25d14", 
+  "sig_static_authenticode": "fd79770c e07146ee 13445af8 7fce1c35", 
+  "sig_trusted_certificates": "7e9be687 fd79770c", 
+  "sig_yara_detection": "ca547731 d515bbb9 06772832 2c6a8791 a8095fb1 389a79b3"
+}

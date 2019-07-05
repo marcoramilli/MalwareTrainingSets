@@ -1,0 +1,9 @@
+{
+  "net_con": "bab4ac37 6bad0698 61234864 df83307f d511915c 7fe9db77 0839019c", 
+  "net_dns": "b17643ea 8484727f 5f532a3f 8b177187 4d236d9a", 
+  "net_http": "eabbc860 bb4de71c 9014417b", 
+  "sig_manalyzepacker": "88e54c41 09e13e29 1909fd32 2e03f1ea 67bdc64f", 
+  "sig_packer_entropy": "6351af28", 
+  "sig_packer_upx": "2f6f7b84", 
+  "sig_static_pe_anomaly": "a28f50fa"
+}

@@ -1,0 +1,8 @@
+{
+  "file_access": "e34d514f f5ddaf0c 254d290c 3d801aa5 40770804", 
+  "file_read": "e34d514f 254d290c 3d801aa5", 
+  "reg_access": "df16f4d5 1fe39017 efc50fc9", 
+  "reg_read": "df16f4d5 1fe39017", 
+  "sig_static_detection": "3e6407d8 8fa82066 35abcc8b 6e4a0cee", 
+  "sig_stealth_timeout": "422abea2"
+}

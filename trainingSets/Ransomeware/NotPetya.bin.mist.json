@@ -1,0 +1,9 @@
+{
+  "file_access": "202cb962 06416233 7b946538 bda9f42e e0179ad5 b799c1d4 8895c8aa 5c3a8ea4 c8ffe9a5 b7215d6c d1db91e1 d7dd8dc6 711e1619 0bac6a1a c81e728d 98e83379 3d801aa5 1d0949d1 dd08a1a5 63f7d79a 7f5cb74a", 
+  "file_read": "202cb962 06416233 7b946538 bda9f42e e0179ad5 b799c1d4 8895c8aa 5c3a8ea4 c8ffe9a5 b7215d6c d1db91e1 d7dd8dc6 711e1619 0bac6a1a c81e728d 98e83379 1d0949d1 dd08a1a5 63f7d79a 7f5cb74a", 
+  "net_dns": "4bd26db0 f5ddaf0c ff62020e 57c36376 e4e46deb fcd2bc07 feb5332a 3212f5f4", 
+  "reg_access": "35e4625d 06238034 efc50fc9", 
+  "reg_read": "35e4625d 06238034", 
+  "sig_packer_entropy": "5e735f58 c5bf303b", 
+  "sig_static_detection": "fe9be8fc 2928fd6d"
+}

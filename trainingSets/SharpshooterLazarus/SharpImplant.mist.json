@@ -1,0 +1,9 @@
+{
+  "api_resolv": "7bcbb9eb ac07a3e4 edb67d6e 12591608 ecb835e6 0105178c 57dfe593 d16720cb fd236080 cf4c3305 8a1c4930 d6d346ed 79f2d364 c9432365 157026f7 88e26cf6 59ba1a55 95fc13f6", 
+  "net_dns": "4bd26db0 f5ddaf0c ff62020e 57c36376 e4e46deb fcd2bc07 feb5332a", 
+  "net_mitm": "fc2e7daf", 
+  "sig_dynamic_function_loading": "efcd3d1e 397550f8 a2a1f424 0cbaf9d0 f42acb1e bf835d94 e1cdf1b2 b0eb5b89 5db66e89 db45ebfb f689b4a4 f18bc6e3 c5a4d835 5e6f0098 c6ee97e5 da6c1631 28f5f6fa 2cd3bea9", 
+  "sig_manalyzefindcrypt": "b023a1cd ba419300", 
+  "sig_static_detection": "3e6407d8 25457e40 883cf52a 6e4a0cee", 
+  "sig_static_pe_anomaly": "a9f2c818"
+}

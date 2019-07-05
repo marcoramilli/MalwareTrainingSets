@@ -1,0 +1,13 @@
+{
+  "api_resolv": "aa9ee92a 9fbab5e5 3682648c 20654bac", 
+  "file_access": "202cb962 06416233 3d801aa5 c8ffe9a5 f31b05c0 7f5cb74a", 
+  "file_read": "202cb962 06416233 3d801aa5 c8ffe9a5 f31b05c0 7f5cb74a", 
+  "net_dns": "4bd26db0 f5ddaf0c ff62020e 57c36376 e4e46deb fcd2bc07 feb5332a", 
+  "net_mitm": "9b717daa", 
+  "reg_access": "35e4625d 06238034 efc50fc9", 
+  "reg_read": "35e4625d 06238034", 
+  "sig_manalyzefindcrypt": "ba419300", 
+  "sig_static_detection": "3e6407d8 882ca9bf 3b09250f c5f98062 927637e2 6e4a0cee", 
+  "sig_static_pe_anomaly": "a9f2c818", 
+  "sig_yara_detection": "d7bdf792 06772832 a8095fb1 2e5dfe74 2c6a8791 571dce0c 389a79b3"
+}

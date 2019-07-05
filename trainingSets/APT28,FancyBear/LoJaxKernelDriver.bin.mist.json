@@ -1,0 +1,9 @@
+{
+  "net_con": "719d5138 7612e840 21441313", 
+  "net_dns": "b17643ea 8b177187 4d236d9a", 
+  "net_http": "4bdb95b4", 
+  "sig_manalyzepacker": "1dc79d4b 41bd56db", 
+  "sig_static_authenticode": "cfad9770 8ba2e438 f4d21c73 0b20436b", 
+  "sig_trusted_certificates": "5c2e8919 7b2f587c e51ea768 398f56cd deb5dd46 925d1260 a60de04a 80914c3f 0590b3c9 90d892b5 f4d21c73 036e8ad2", 
+  "sig_yara_detection": "391ef3d7 ca547731 389a79b3"
+}

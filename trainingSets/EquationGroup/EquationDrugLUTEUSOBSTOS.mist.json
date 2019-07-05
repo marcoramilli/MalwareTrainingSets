@@ -1,0 +1,13 @@
+{
+  "api_resolv": "a9906f3f 00a31fe5 b7cfcd29 d9c9c454 4968cd59 91817b0b 4f0decc0 b3395762 9de26721 d49e9a54 66dc1852 3a4e9c22", 
+  "file_access": "3d801aa5 98e83379 c2aaf3ab", 
+  "file_delete": "3d801aa5 98e83379 c2aaf3ab", 
+  "mutex_access": "58a19c52", 
+  "net_dns": "4bd26db0 f5ddaf0c ff62020e 57c36376 40fa73c9 e4e46deb fcd2bc07 feb5332a 6b3123d3 af0ae999", 
+  "net_mitm": "83ed7d56", 
+  "reg_access": "c0f87020 40d70447 51697019 7e523f39 df16f4d5 f9fa10ba 1fe39017 9ea6efd4 efc50fc9", 
+  "reg_read": "40d70447 df16f4d5 1fe39017 7e523f39 9ea6efd4", 
+  "sig_dynamic_function_loading": "ddbf59d3 52a2f28b 60dc1cd0 7441d402 eb29e152 87578342 5b58862e b6666cb2 c90ab7f0 b173deae c858f50c", 
+  "sig_move_file_on_reboot": "a0b587da", 
+  "sig_packer_entropy": "3bfb9cee"
+}

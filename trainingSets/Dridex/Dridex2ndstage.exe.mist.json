@@ -1,0 +1,11 @@
+{
+  "api_resolv": "cee56ec0 8c70d8b3 ac07a3e4 abf88b0b 38c96c1d 3d6c3869 cf4c3305 8a1c4930 70d48670 0beece84 f60a30d8 5a5864f3 c56ea33b", 
+  "file_access": "202cb962 06416233 3389dae3 c81e728d 98e83379 8895c8aa 3ef7b01d c8ffe9a5 e5254f16 7f5cb74a", 
+  "file_read": "202cb962 06416233 3ef7b01d c8ffe9a5 e5254f16 8895c8aa c81e728d 98e83379 7f5cb74a", 
+  "mutex_access": "3743ad5a 85817e98", 
+  "reg_access": "d41d8cd9 06238034 58ec0cff 0869a928 fd7a1487 51697019 35e4625d 25930e30 0f4137ed 5925bf19 5f532a3f f9fa10ba efc50fc9", 
+  "reg_read": "35e4625d 06238034 58ec0cff 5925bf19 fd7a1487 efc50fc9", 
+  "sig_dynamic_function_loading": "97d5d58d bf638c83 43fe2e9f e6edbcc8 f5c6eec8 632ab2df a7737781 ecbac358 6b016ec6 b0eb5b89 8307358d 5db66e89 c5a4d835", 
+  "sig_encrypted_ioc": "0a75c39c", 
+  "sig_manalyzepacker": "7951cf6d"
+}

@@ -1,0 +1,13 @@
+{
+  "api_resolv": "ec2b83df 02eb14e7 2581cef1", 
+  "file_access": "c0f87020 06416233 8b4939bc 080a35bc 3d801aa5 0f14efcf 98e83379", 
+  "file_drop": "00004400_4771c395", 
+  "file_read": "c0f87020 06416233 8b4939bc 080a35bc 3d801aa5 0f14efcf 98e83379", 
+  "file_write": "06416233 3d801aa5 0f14efcf", 
+  "reg_access": "40d70447 700cc4bd 1fe39017 731fa9a9 7e523f39 c0f87020 df16f4d5 4b77e5ee 93da65a9 9ea6efd4 efc50fc9", 
+  "reg_read": "40d70447 700cc4bd 1fe39017 731fa9a9 7e523f39 df16f4d5 4b77e5ee 9ea6efd4", 
+  "sig_dropper_binary": "06416233 3d801aa5 0f14efcf", 
+  "sig_manalyzepacker": "3bb79026 8cfe6fc2", 
+  "sig_polymorphic": "06416233 3d801aa5 0f14efcf", 
+  "sig_stealth_timeout": "7037fea8"
+}

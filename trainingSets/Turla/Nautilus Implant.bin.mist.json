@@ -1,0 +1,13 @@
+{
+  "api_resolv": "b60440c9 55eafac6 84f64bbc 5ced1088 7dbefa9c 956f51d4 ffa120fc 3682648c ac07a3e4 a9d58661 dec3713e 7c291dac 9870677a 71d4a352 1e27b6de ed23cd27 b31a2f2e e5ceff7e ad20547b f353449a d2b134d2 46937ec4 83875788 508fb489 aa9ee92a 2a52361d c7fb6b0e fb8163f2 5d68b4bf d62af1fd 551c6b57 9fbab5e5 20654bac", 
+  "file_access": "202cb962 06416233 25037ea7 a0e462e2 b6069eee d77d5e50 c81e728d 98e83379 c8ffe9a5 e5254f16 2af72f10 7f5cb74a 3d801aa5", 
+  "file_drop": "00120000_8d777f38", 
+  "file_read": "202cb962 06416233 25037ea7 a0e462e2 b6069eee d77d5e50 c81e728d 98e83379 c8ffe9a5 e5254f16 2af72f10 7f5cb74a", 
+  "file_write": "c81e728d b6069eee d77d5e50", 
+  "reg_access": "35e4625d 06238034 efc50fc9", 
+  "reg_read": "35e4625d 06238034", 
+  "sig_apparent_code_into_decoded_strings": "45e0edac f49425c2", 
+  "sig_dynamic_function_loading": "09f5bc32 5b261d1d 4c34d2f0 6d18c9d6 21dad5c2 ce8422d7 3188e4c1 87fa6af9 32d21707 9b4ab140 ff2c2dbe 195b2ac2 ced5d048 cc9a1996 8d6520b3 a8f76382 9949ea46 4d2754db 86bda7c9 1afc168a 1bf1e575 d1077b38 00b288b1 f26e55ff ee71b622 5fb60eb2 83dcd381 70df3124 aa8ed542 1f38e903 852cdfd9 1f1ddd9e 2316f291 6733e33a 508b1118 c5a4d835 a6ae6bf8 22304c3a 4a6cf968", 
+  "sig_manalyzefindcrypt": "b023a1cd 1127265e ba419300 15471ee7 e3753b36 f5fe7602 e8e25d14", 
+  "sig_static_detection": "b91749b0 3e6407d8 a27d6456 f056b98e c5f98062 6e4a0cee"
+}

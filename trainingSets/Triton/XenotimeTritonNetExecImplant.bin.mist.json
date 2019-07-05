@@ -1,0 +1,8 @@
+{
+  "api_resolv": "aa9ee92a 9fbab5e5 3682648c 20654bac", 
+  "reg_access": "df16f4d5 1fe39017 efc50fc9", 
+  "reg_read": "df16f4d5 1fe39017", 
+  "sig_static_detection": "3e6407d8 e8cb838f f12a0ac1 6e4a0cee", 
+  "sig_stealth_timeout": "0bbe632b", 
+  "sig_yara_detection": "d7bdf792 571dce0c 06772832 2e5dfe74 2c6a8791 10486294 389a79b3 a8095fb1 391ef3d7 17c4253d c3a02658"
+}

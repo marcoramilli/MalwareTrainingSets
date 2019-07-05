@@ -1,0 +1,7 @@
+{
+  "api_resolv": "b60440c9 55eafac6 84f64bbc 5ced1088 7dbefa9c 956f51d4 71d4a352 3682648c a9d58661 dec3713e 7c291dac 9870677a 1e27b6de ed23cd27 b31a2f2e e5ceff7e f353449a d2b134d2 46937ec4 83875788 508fb489 aa9ee92a 2a52361d c7fb6b0e fb8163f2 5d68b4bf d62af1fd 551c6b57 9fbab5e5 20654bac", 
+  "sig_apparent_code_into_decoded_strings": "45e0edac 44dc88f0", 
+  "sig_manalyzefindcrypt": "b023a1cd", 
+  "sig_static_detection": "3e6407d8 4dbbd266 3b12de1e 4d8042c4 fe9be8fc 2d8ed57f ef9a7ede c5f98062 601c55e6 6e4a0cee", 
+  "sig_static_pe_anomaly": "a9f2c818"
+}

@@ -1,0 +1,10 @@
+{
+  "api_resolv": "c0b14a53", 
+  "file_access": "202cb962 06416233 95b08e72 d1db91e1 bda9f42e 711e1619 c81e728d 7b946538 98e83379 8895c8aa c8ffe9a5 3d801aa5 7f5cb74a", 
+  "file_read": "202cb962 06416233 95b08e72 d1db91e1 bda9f42e 711e1619 c81e728d 7b946538 98e83379 8895c8aa c8ffe9a5 7f5cb74a", 
+  "reg_access": "35e4625d 93da65a9 06238034 731fa9a9 700cc4bd e87a7ec9 efc50fc9", 
+  "reg_read": "35e4625d 700cc4bd 06238034 731fa9a9 e87a7ec9", 
+  "sig_apparent_code_into_decoded_strings": "45e0edac e68ae8ac", 
+  "sig_manalyzefindcrypt": "15471ee7", 
+  "sig_static_detection": "fe9be8fc 2fc832ee"
+}

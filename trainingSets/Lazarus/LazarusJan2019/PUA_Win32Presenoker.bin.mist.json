@@ -1,0 +1,14 @@
+{
+  "api_resolv": "aa9ee92a 6dd12f53 9870677a 95d826ec 9fbab5e5 20654bac", 
+  "file_access": "bda9f42e 993c1287 249a6812 57c36376 d07d50a7 f5ddaf0c b8a7902b fa816edb 06416233 04e5d6f0 2d3fca1f 3d801aa5 7515e617 f4f82ba2 374a0ba5 8e0af37d", 
+  "file_drop": "00000000_8d777f38 00000000_5fd38e7c 00003800_8d777f38", 
+  "file_read": "bda9f42e 06416233 b8a7902b 249a6812", 
+  "file_write": "f4f82ba2 374a0ba5 57c36376 3d801aa5 d07d50a7 fa816edb 04e5d6f0", 
+  "reg_access": "54b53072 68667308 c1c40440 0aaa8742 22450232 c576a841", 
+  "reg_read": "22450232 54b53072 c1c40440 0aaa8742", 
+  "sig_antisandbox_sleep": "b6ad4db1", 
+  "sig_dynamic_function_loading": "86bda7c9 6d18c9d6 dd11f324 508b1118 e4a4e0ab 00061a18 d6b59d55 1afc168a", 
+  "sig_infostealer_keylog": "188c7532", 
+  "sig_manalyzefindcrypt": "b023a1cd", 
+  "sig_static_detection": "3e6407d8 aeef3854 3676ef5c c5f98062 f70afef8 6e4a0cee"
+}

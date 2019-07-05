@@ -1,0 +1,10 @@
+{
+  "api_resolv": "ec2b83df 02eb14e7", 
+  "file_access": "202cb962 06416233 7b946538 c0f87020 c81e728d 8b4939bc 98e83379 cedd945d 8895c8aa 080a35bc 3d801aa5 7f5cb74a c8ffe9a5", 
+  "file_read": "202cb962 06416233 7b946538 c0f87020 c81e728d 8b4939bc 98e83379 cedd945d 8895c8aa 080a35bc 3d801aa5 7f5cb74a c8ffe9a5", 
+  "reg_access": "93da65a9 700cc4bd 06238034 731fa9a9 7e523f39 40d70447 35e4625d a81c199a c0f87020 9ea6efd4 efc50fc9", 
+  "reg_read": "35e4625d 700cc4bd 06238034 731fa9a9 7e523f39 a81c199a 40d70447 9ea6efd4", 
+  "sig_manalyzepacker": "7502142b 6bfef774 301ca133", 
+  "sig_static_pe_anomaly": "a9f2c818", 
+  "sig_yara_detection": "389a79b3"
+}

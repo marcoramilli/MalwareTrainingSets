@@ -1,0 +1,18 @@
+{
+  "api_resolv": "4faf109a 1b64cca1 832d825d 7ea1d546 c59ec7ed 5f048c9d 8e16a687 7c6e8b2e 4341e2fc a868258b 06336c86 bd79f8c0 9a636fc0 75c74221 8d2453d3 3153e22d d3f15180 cc9bfd1e a57b84d5 5c4dde69 b5f19a6b 2166002d 63bf1b42", 
+  "mutex_access": "c61532a3", 
+  "net_dns": "4bd26db0 f5ddaf0c ff62020e 57c36376 e4e46deb fcd2bc07 feb5332a", 
+  "net_http": "90d49b00 cbd9ebf2 65656634 4c6db5bb 52799485 9ff9e169", 
+  "net_mitm": "af2e98d8 cae4c75c 4f9223c3 1c4f2005 96fd186a 1fc26be9 3c34b0e6", 
+  "reg_access": "780bc46d d2ef061c 08a9f0b8 4d3021ef ba1c8342 42402083 ab9dfd08 b8d4bd8a 8f817e03 810f75f2 e0bda819 7c3e5988 84288d44 6301488c 69601781 a0357c61 8757a543 6f8d1b93 c160aef3 481b12bd 3718aa2f 3491c8da 2e5d8aa3 a401c470 deed16d3 5f532a3f bddd96a3 f9fa10ba 56350d2f 8eb58dd5", 
+  "reg_delete": "3491c8da 08a9f0b8 42402083", 
+  "reg_read": "8f817e03 d2ef061c 481b12bd 2e5d8aa3 ab9dfd08 6f8d1b93 84288d44", 
+  "reg_write": "3718aa2f 7c3e5988 08a9f0b8 42402083 deed16d3 b8d4bd8a 8757a543", 
+  "sig_antisandbox_sleep": "4a7595cc", 
+  "sig_dynamic_function_loading": "9c869d3d 9e3222fc 6d49e959 d9243828 4b130297 e789e61b 8df0b4e5 b9766aa0 29c65a6a 5b3c2b17 103fc6ed", 
+  "sig_internet_dropper": "c7e5d570", 
+  "sig_manalyzefindcrypt": "e8e25d14", 
+  "sig_network_cnc_http": "e25a7c04 f391a43b 4e892432 5d2bab31 c4e66af4 9f2e7c87 f6e3edeb b6190450", 
+  "sig_network_http": "e25a7c04 f391a43b b6190450 c4e66af4 f6e3edeb 9f2e7c87", 
+  "sig_yara_detection": "06772832 a8095fb1 389a79b3"
+}

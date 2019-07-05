@@ -1,0 +1,10 @@
+{
+  "api_resolv": "55eafac6 eee8e8ce 84f64bbc 5ced1088 f8e166f0 4d880bfe 17518015 9a9699c7 3682648c aeb803af f59abc9d d0f4bc50 fdeed961 dec3713e 4484d3f9 fe2b396c 9870677a a9d58661 ed23cd27 b31a2f2e e5ceff7e 3c3b21e8 3ce99501 d2b134d2 46937ec4 83875788 508fb489 aa9ee92a 1aeb848e c7fb6b0e fb8163f2 4dfdf7fc 5d68b4bf f353449a 071f68fc 551c6b57 9fbab5e5 20654bac", 
+  "file_access": "202cb962 06416233 bda9f42e 98e83379 65fbb684 c8ffe9a5 7515e617 8e0af37d 7f5cb74a", 
+  "file_read": "202cb962 06416233 65fbb684 c8ffe9a5 98e83379 7f5cb74a", 
+  "reg_access": "35e4625d 06238034 efc50fc9", 
+  "reg_read": "35e4625d 06238034", 
+  "sig_dynamic_function_loading": "5b261d1d 6d18c9d6 5d6ed322 00061a18 d1077b38 322614cb ced5d048 9d26d548 f26e55ff 83dcd381 ce8422d7 81a559ca 852cdfd9 1f1ddd9e 1b5ba912 508b1118 0e33a50d eb98b019 75d8a08a 09f5bc32 23fbc833 195b2ac2 21dad5c2 87fa6af9 a0b3ebab 6733e33a 29fcb4ce ed22e590 86bda7c9 4c2d2bae 58613d8e f489e837 1afc168a 1bf1e575 ff2c2dbe 18a595be 267ea1c8 4a6cf968 1f38e903 22304c3a 3188e4c1 ab9f790f 5440fa64 68ab9f85", 
+  "sig_manalyzefindcrypt": "15471ee7", 
+  "sig_static_detection": "830aa698 3e6407d8 f2f16d8a fe9be8fc c5f98062 9ca84e99 38ce5a0b 6e4a0cee"
+}

@@ -1,0 +1,12 @@
+{
+  "api_resolv": "4faf109a 1b64cca1 832d825d 64d63110 2166002d c59ec7ed 032d9891 5f048c9d 8e16a687 7c6e8b2e 4341e2fc a868258b 06336c86 bd79f8c0 9a636fc0 75c74221 8d2453d3 3153e22d d3f15180 cc9bfd1e a57b84d5 5c4dde69 b5f19a6b 7ea1d546 63bf1b42", 
+  "file_access": "d41d8cd9 f2f8ad94 ea03fcb8", 
+  "net_http": "06df9d7d", 
+  "net_mitm": "84eec742", 
+  "reg_access": "780bc46d d2ef061c 4d3021ef ba1c8342 ab9dfd08 b8d4bd8a 8f817e03 10cd395c 810f75f2 e0bda819 7c3e5988 84288d44 6301488c 179fb6ce 69601781 f752c755 a0357c61 0203fe1d 8227bdd0 8757a543 6f8d1b93 b9acd168 c160aef3 481b12bd 3718aa2f 3491c8da 2e5d8aa3 a401c470 deed16d3 5f532a3f bddd96a3 f9fa10ba 56350d2f 8eb58dd5", 
+  "reg_delete": "b9acd168 179fb6ce 3491c8da", 
+  "reg_read": "d2ef061c ab9dfd08 8f817e03 0203fe1d 481b12bd f752c755 2e5d8aa3 8227bdd0 6f8d1b93 84288d44", 
+  "reg_write": "b9acd168 179fb6ce 3718aa2f 7c3e5988 deed16d3 b8d4bd8a 8757a543", 
+  "sig_malicious_dynamic_function_loading": "d9243828", 
+  "sig_network_cnc_http": "e0c99cad 4e892432 5d2bab31"
+}

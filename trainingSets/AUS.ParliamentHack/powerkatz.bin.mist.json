@@ -1,0 +1,10 @@
+{
+  "api_resolv": "1314db6f 716a3719 ecb835e6 ed04c659 c725acf6 2916dda3 c4c1a6c7 74f4b393 191d2a96 5b1467c4 a07e18e5", 
+  "file_access": "202cb962 06416233 7b946538 d2a61ce4 f5ddaf0c 22450232 cfcd2084 737e64a6 48bb9888 c81e728d 98e83379 8895c8aa 5ed3a3ff c8ffe9a5 a37ead0b b224fd03 7f5cb74a", 
+  "file_read": "202cb962 06416233 7b946538 22450232 48bb9888 c81e728d 98e83379 8895c8aa c8ffe9a5 7f5cb74a", 
+  "reg_access": "e58891ec d41d8cd9 06238034 8377f24f c0d89ef7 eb29082c 4c733eee f4af8b57 0eb3c700 35e4625d 66f43d88 ab2b0c6f 5f532a3f 13f43b56 efc50fc9", 
+  "reg_read": "35e4625d e58891ec 06238034 8377f24f ab2b0c6f c0d89ef7 eb29082c", 
+  "sig_dynamic_function_loading": "a5868d35 9c316239 795e3518 bf7f10ce 010dcc1a 985a82de 0dad3e18 db45ebfb 0fa29368 3cfde4ff 8ab3f7fb 6bb728cd d60f3f69 46a0387f", 
+  "sig_manalyzepacker": "33c36d4c", 
+  "sig_yara_detection": "389a79b3"
+}

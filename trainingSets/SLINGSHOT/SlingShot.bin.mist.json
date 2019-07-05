@@ -1,0 +1,12 @@
+{
+  "api_resolv": "ec2b83df 8390034e a5cc029f 02eb14e7", 
+  "file_access": "202cb962 06416233 7b946538 29bcc934 c81e728d 8b4939bc 98e83379 c0f87020 8895c8aa 080a35bc 3d801aa5 7f5cb74a c8ffe9a5", 
+  "file_read": "202cb962 06416233 7b946538 29bcc934 c81e728d 8b4939bc 98e83379 c0f87020 8895c8aa 080a35bc 3d801aa5 7f5cb74a c8ffe9a5", 
+  "reg_access": "40d70447 c0f87020 06238034 7e523f39 9fb75fdb 35e4625d 25930e30 9ea6efd4 efc50fc9", 
+  "reg_read": "35e4625d 40d70447 06238034 7e523f39 9fb75fdb 9ea6efd4 efc50fc9", 
+  "sig_manalyzefindcrypt": "ba419300", 
+  "sig_manalyzepacker": "48e677e8", 
+  "sig_static_detection": "3e6407d8 096a557a", 
+  "sig_static_pe_anomaly": "a9f2c818", 
+  "sig_yara_detection": "391ef3d7 d7bdf792 06772832 571dce0c 2c6a8791 a8095fb1 389a79b3 ca547731"
+}

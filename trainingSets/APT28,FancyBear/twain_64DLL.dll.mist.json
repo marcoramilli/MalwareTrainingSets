@@ -1,0 +1,8 @@
+{
+  "api_resolv": "ffa120fc", 
+  "file_access": "202cb962 06416233 4ad0ea94 c4ca4238 f5ddaf0c e5a63933 ff203547 c81e728d 98e83379 43207fd5 8895c8aa c8ffe9a5 e5254f16 2af72f10 d41d8cd9 7f5cb74a", 
+  "file_read": "202cb962 06416233 4ad0ea94 e5a63933 ff203547 c81e728d 98e83379 8895c8aa c8ffe9a5 e5254f16 2af72f10 7f5cb74a", 
+  "reg_access": "35e4625d 06238034 a7eb6bbe efc50fc9", 
+  "reg_read": "35e4625d 06238034", 
+  "sig_static_detection": "3e6407d8 8655ca2a 6e4a0cee a44318d8"
+}

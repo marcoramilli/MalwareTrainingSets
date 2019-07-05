@@ -1,0 +1,8 @@
+{
+  "api_resolv": "ef66b66c aa9ee92a 9fbab5e5 3682648c 20654bac", 
+  "reg_access": "df16f4d5 1fe39017 efc50fc9", 
+  "reg_read": "df16f4d5 1fe39017", 
+  "sig_apparent_code_into_decoded_strings": "45e0edac", 
+  "sig_static_detection": "3203ee1e 3cf2177b c5f98062 3e6407d8 fe9be8fc c535d62f 5c6a64b0 6e4a0cee", 
+  "sig_static_pe_anomaly": "a9f2c818"
+}

@@ -1,0 +1,8 @@
+{
+  "net_con": "7612e840 0839019c bab4ac37 719d5138 d511915c 7fe9db77 21441313", 
+  "net_dns": "b17643ea 8484727f 5f532a3f 8b177187 4d236d9a", 
+  "net_http": "eabbc860 bb4de71c eb3c0d60", 
+  "sig_manalyzefindcrypt": "ba419300", 
+  "sig_manalyzepacker": "1b3f85d1", 
+  "sig_packer_entropy": "94269dbd"
+}

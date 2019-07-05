@@ -1,0 +1,21 @@
+{
+  "api_resolv": "5ccec8b3 ec2b83df 02eb14e7 c75fd1c7 28de586d", 
+  "cmd_exec": "9bc65c2a dd82c188 09e592c4 0a245039 8d6095a6 bca50149 764319b6 a7ecd823 5d925418 2b1bda43 40770804 0c606f99 e99ad613 ee11cbb1 efc50fc9 f5ddaf0c c4cd5f47 e7bdb89c 0f4137ed 33c0ee42 094c2154 7cb31435 34ec78fc 98e83379 804f7438 2591c98b 3d801aa5 5f532a3f f9fa10ba", 
+  "file_access": "06416233 7b946538 97620389 d41d8cd9 0a245039 8d6095a6 c4cd5f47 cfcd2084 d65aadb2 c0f87020 080a35bc e322d423 764319b6 277993ca ddf3a8a8 5d925418 b93ed925 8b4939bc d85eb9a8 5eeb937a f9f16d97 c793999d f9664ea1 8ff8249d 98e83379 f393f3f5 e91e6348 48ea3508 ce616491 3d801aa5 b8a7902b 2567a5ec f9fa10ba 893ae2a5 1b7d9167", 
+  "file_drop": "00000000_a2e4822a", 
+  "file_read": "06416233 7b946538 b8a7902b 8b4939bc 98e83379 d65aadb2 c0f87020 080a35bc 3d801aa5 5d925418 893ae2a5", 
+  "file_write": "97620389 764319b6 0a245039 8d6095a6 c4cd5f47 cfcd2084 98e83379 f393f3f5", 
+  "net_dns": "775bb202 f97c5d29", 
+  "reg_access": "40d70447 1fe39017 dd82c188 7e523f39 7cb31435 c576a841 c1c40440 0aaa8742 c0f87020 54b53072 2591c98b df16f4d5 94422fa6 9ea6efd4 efc50fc9", 
+  "reg_read": "40d70447 7cb31435 1fe39017 dd82c188 7e523f39 df16f4d5 0aaa8742 9ea6efd4 c1c40440", 
+  "reg_write": "7cb31435 dd82c188", 
+  "sig_antiav_detectfile": "b93ed925 d85eb9a8 2567a5ec 0a245039 8d6095a6 f9f16d97 f9664ea1 8ff8249d e91e6348 5eeb937a e322d423 277993ca ce616491 f9fa10ba", 
+  "sig_antisandbox_sleep": "4e797e83", 
+  "sig_dead_connect": "c64eaa62", 
+  "sig_dropper_binary": "97620389 764319b6 f393f3f5", 
+  "sig_dynamic_function_loading": "a6324bac dd53a0f0 bc3a0986 1addc9a5 6ea11699", 
+  "sig_manalyzepacker": "7b3a6c18 47d0c9fb", 
+  "sig_reads_self": "588d3ce2", 
+  "sig_static_pe_anomaly": "a9f2c818", 
+  "sig_uses_windows_utilities": "06ca0b4d"
+}

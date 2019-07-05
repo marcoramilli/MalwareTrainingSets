@@ -1,0 +1,6 @@
+{
+  "api_resolv": "aa9ee92a 9fbab5e5 3682648c 20654bac", 
+  "sig_manalyzepacker": "41f90bb4 8a769dfc", 
+  "sig_static_detection": "3e6407d8 bd3305c5 43e218bf c5f98062 bb7ef5d9 6e4a0cee", 
+  "sig_static_pe_anomaly": "a9f2c818"
+}

@@ -1,0 +1,14 @@
+{
+  "api_resolv": "c630a39a 3621529f 21fe109f 113dc6bf a06f0ab8 f39309c1 7690ed60 d4147083 f814e2c9 e38d842c 7fe32942 b584e818 157026f7 8be8489d", 
+  "file_access": "fc099fb7 06416233 7b946538 ea03fcb8 d41d8cd9 202cb962 c81e728d 98e83379 8895c8aa 04e94dcd 3d801aa5 7f5cb74a c8ffe9a5", 
+  "file_read": "fc099fb7 06416233 7b946538 ea03fcb8 d41d8cd9 202cb962 c81e728d 98e83379 8895c8aa 04e94dcd 3d801aa5 7f5cb74a c8ffe9a5", 
+  "file_write": "d41d8cd9 04e94dcd ea03fcb8", 
+  "reg_access": "10a385b6 731fa9a9 10cd395c 1d0258c2 599dcce2 bfd011a7 f5d82e8c 91b1c4c0 02fdcdae 0f4137ed d55154a6 91e02cd2 cb67418f 93da65a9 700cc4bd 06238034 fc5364bf f4af8b57 21387007 0fb478cb 5b290621 35e4625d 10e7002c 25930e30 8cb0c1da 3e4cbf8f 6256fbd0 efc50fc9 ea2b2676 fbb709fd 54f1256f", 
+  "reg_read": "35e4625d 700cc4bd 06238034 731fa9a9 10a385b6 cb67418f efc50fc9 5b290621", 
+  "reg_write": "1d0258c2 10cd395c 3e4cbf8f 6256fbd0 599dcce2 ea2b2676 bfd011a7 54f1256f", 
+  "sig_antisandbox_sleep": "7af6cb38", 
+  "sig_driver_load": "17feefd2", 
+  "sig_dynamic_function_loading": "5924f1eb f9cb2c1c 574c281b 3e91c873 6f22412e 42c11752 a03ad1ba bcb774e4 35c76000 f42acb1e 6a806ec0 d22bd595 18dcae83 5977efc1 93d03c8e 2fbda304 65bf4e04", 
+  "sig_manalyzefindcrypt": "b023a1cd", 
+  "sig_manalyzepacker": "4c19c3e1"
+}

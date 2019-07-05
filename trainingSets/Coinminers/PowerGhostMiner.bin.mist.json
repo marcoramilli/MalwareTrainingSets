@@ -1,0 +1,10 @@
+{
+  "api_resolv": "140e2299 86c8c151 660cc413 7c9eafad e8069b29 57dfe593 6008cbc2 c5b11e6d 4436d4e2 59ba1a55 22921452", 
+  "mutex_access": "f2577ba7", 
+  "net_con": "6f08c5dd b5217048 b8df20da", 
+  "net_dns": "7bf26ebf 4d236d9a e4f0e03e", 
+  "sig_dead_connect": "d96eb5e4", 
+  "sig_dynamic_function_loading": "e1cdf1b2 4c9c9f20 99061158 c9f7543f f3e6ac14 312d28c1 d2b68410 6233ea14 f689b4a4 6cc9d013 2b3ac5c8", 
+  "sig_static_pe_anomaly": "0475f535 a9f2c818", 
+  "sig_yara_detection": "06772832 a8095fb1 389a79b3"
+}

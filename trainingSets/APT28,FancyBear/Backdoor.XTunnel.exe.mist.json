@@ -1,0 +1,17 @@
+{
+  "api_resolv": "55eafac6 dec3713e 832d825d 7c291dac 956f51d4 71d4a352 c59ec7ed 1b64cca1 d3f15180 06336c86 9a636fc0 3153e22d d2b134d2 2a52361d cc9bfd1e a57b84d5 aa9ee92a 5c4dde69 fb8163f2 b5f19a6b 7ea1d546 d62af1fd 1e27b6de 9fbab5e5 63bf1b42 75c74221 b60440c9 7dbefa9c 4faf109a 84f64bbc 5ced1088 64d63110 032d9891 3682648c 5f048c9d 8e16a687 7c6e8b2e 4341e2fc 9870677a a868258b 551c6b57 ed23cd27 b31a2f2e bd79f8c0 e5ceff7e f353449a 8d2453d3 46937ec4 83875788 508fb489 5d68b4bf 2166002d 20654bac", 
+  "file_access": "d41d8cd9 f2f8ad94 ea03fcb8", 
+  "net_http": "686d8a9a", 
+  "net_mitm": "3b411f5d", 
+  "reg_access": "780bc46d d2ef061c 4d3021ef ba1c8342 ab9dfd08 b8d4bd8a a687e964 8f817e03 810f75f2 e0bda819 7c3e5988 84288d44 6301488c 69601781 a0357c61 8757a543 6f8d1b93 b9acd168 c160aef3 481b12bd 3718aa2f 3491c8da 2e5d8aa3 a401c470 deed16d3 5f532a3f bddd96a3 f9fa10ba 56350d2f 8eb58dd5", 
+  "reg_delete": "b9acd168 3491c8da a687e964", 
+  "reg_read": "8f817e03 d2ef061c 481b12bd 2e5d8aa3 ab9dfd08 6f8d1b93 84288d44", 
+  "reg_write": "b9acd168 3718aa2f 7c3e5988 8757a543 deed16d3 b8d4bd8a a687e964", 
+  "sig_antisandbox_sleep": "dc4ba8ee", 
+  "sig_dynamic_function_loading": "9c869d3d 9e3222fc 4247f474 6d49e959 0d96a208 f39ddbde 11a47a39 d9243828 4b130297 e789e61b 8df0b4e5 29c65a6a b9766aa0 e6163d9c 5b3c2b17 103fc6ed 00474ec2", 
+  "sig_malicious_dynamic_function_loading": "d9243828", 
+  "sig_manalyzefindcrypt": "1127265e 15471ee7 3ffbba39 e3753b36 f5fe7602 e8e25d14", 
+  "sig_network_cnc_http": "4437d83f 4e892432 5d2bab31", 
+  "sig_network_http": "4437d83f", 
+  "sig_static_detection": "3e6407d8 cda6e9a9 390ec5dd fe9be8fc 0ed0f675 c5f98062 54f5d92c 6e4a0cee"
+}

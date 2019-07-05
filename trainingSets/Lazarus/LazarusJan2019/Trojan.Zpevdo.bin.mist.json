@@ -1,0 +1,12 @@
+{
+  "file_access": "202cb962 06416233 fa816edb e34d514f f5ddaf0c 0a245039 b8a7902b c8ffe9a5 c81e728d 98e83379 04e053ee 3d801aa5 e5254f16 38565c17 279869b6 f4f82ba2 7f5cb74a 249a6812 e05e1b8e", 
+  "file_drop": "00000000_88a93307 00000000_5fd38e7c 00004c00_8d777f38", 
+  "file_read": "202cb962 06416233 7f5cb74a 98e83379 e05e1b8e e5254f16 b8a7902b 249a6812 c8ffe9a5", 
+  "file_write": "f4f82ba2 38565c17 3d801aa5 279869b6 fa816edb 04e053ee", 
+  "reg_access": "35e4625d 06238034 c1c40440 0aaa8742 c576a841 efc50fc9", 
+  "reg_read": "35e4625d 06238034 c1c40440 0aaa8742", 
+  "sig_antisandbox_sleep": "0b12de92", 
+  "sig_infostealer_keylog": "6d83ae0a", 
+  "sig_manalyzefindcrypt": "b023a1cd", 
+  "sig_static_detection": "f77bb718 3e6407d8 8cff03b6 6e4a0cee"
+}
